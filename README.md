@@ -1,16 +1,21 @@
-# pixel_adventure
+# Pixel Adventure
 
-A new Flutter project.
+**Pixel Adventure** is a 2D platformer game built using the Flutter framework, featuring classic pixel art style graphics. The game involves navigating through various levels, avoiding obstacles, and collecting items to achieve the highest score. This is my first game, and I'm excited to share the journey of its development.
+
+## Features
+
+- **Retro Pixel Art**: Classic pixel art style that brings a nostalgic feel.
+- **Multiple Levels**: Various levels with increasing difficulty.
+- **Simple Controls**: Easy-to-learn controls for an engaging experience.
+- **Smooth Performance**: Optimized for both Android and iOS platforms.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, ensure you have met the following requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed on your machine.
+- Android Studio or Visual Studio Code for Flutter development.
+- An emulator or a physical device to run the game.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
