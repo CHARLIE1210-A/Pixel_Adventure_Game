@@ -70,7 +70,7 @@
    <properties>
     <property name="isVertical" type="bool" value="false"/>
     <property name="offNeg" type="float" value="6"/>
-    <property name="offPos" type="float" value="7"/>
+    <property name="offPos" type="float" value="10"/>
    </properties>
   </object>
   <object id="66" type="Saw" x="304" y="96" width="32" height="32">
@@ -80,7 +80,7 @@
     <property name="offPos" type="float" value="3"/>
    </properties>
   </object>
-  <object id="68" type="Checkpoint" x="496" y="160" width="64" height="64"/>
+  <object id="68" type="Checkpoint" x="505" y="160" width="64" height="64"/>
   <object id="69" x="480" y="416"/>
  </objectgroup>
 </map>
