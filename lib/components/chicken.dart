@@ -42,7 +42,7 @@ class Chicken extends SpriteAnimationGroupComponent
 
   @override
   FutureOr<void> onLoad() {
-    debugMode = true;
+    // debugMode = true;
     player = game.player;
     add(RectangleHitbox(
       position: Vector2(4, 6),
@@ -78,7 +78,7 @@ class Chicken extends SpriteAnimationGroupComponent
 
   SpriteAnimation _spriteAnimation(String state, int amount) {
     return SpriteAnimation.fromFrameData(
-      game.images.fromCache('Enemies/Chicken/$state (32x34).png'),
+      game.images.fromCache('Enemies/Rino/$state (32x34).png'),
       SpriteAnimationData.sequenced(
         amount: amount,
         stepTime: stepTime,
